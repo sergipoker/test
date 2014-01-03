@@ -12,5 +12,7 @@
     <description>
         An example for phonegap build docs. 
     </description>
+    
+    <gap:splash src="splash.png" />
 
 </widget>
