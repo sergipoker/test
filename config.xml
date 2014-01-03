@@ -13,6 +13,6 @@
         An example for phonegap build docs. 
     </description>
     
-    <gap:splash src="splash.png" />
+    <gap:splash src="https://f.cloud.github.com/assets/6213855/1842434/2377e668-74bc-11e3-818e-0f37cb0028af.png" />
 
 </widget>
